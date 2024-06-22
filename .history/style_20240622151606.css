@@ -835,44 +835,4 @@ footer span a:hover {
 }
 
 
-/* julius modifications start here */
-.contact-form {
-  margin-top: 20px;
-  padding: 20px;
-  border: 1px solid #ddd;
-  border-radius: 5px;
-}
-
-.form-field {
-  margin-bottom: 15px;
-}
-
-.form-field input,
-.form-field textarea {
-  width: 100%;
-  padding: 10px;
-  border: 1px solid #ccc;
-  border-radius: 3px;
-}
-
-.form-field textarea {
-  height: 100px;
-}
-
-.form-field button {
-  background-color: #333;
-  color: #fff;
-  padding: 10px 15px;
-  border: none;
-  border-radius: 3px;
-  cursor: pointer;
-}
-
-.form-field button:hover {
-  background-color: crimson;
-  color:#fff;
-}
-
-
-
-/* julius modification ends here */
+/* julius modification */

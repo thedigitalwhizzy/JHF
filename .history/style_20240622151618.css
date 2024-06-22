@@ -869,10 +869,5 @@ footer span a:hover {
 }
 
 .form-field button:hover {
-  background-color: crimson;
-  color:#fff;
+  background-color: #222;
 }
-
-
-
-/* julius modification ends here */

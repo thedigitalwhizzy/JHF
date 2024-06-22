@@ -869,10 +869,16 @@ footer span a:hover {
 }
 
 .form-field button:hover {
-  background-color: crimson;
-  color:#fff;
+  background-color: #222;
 }
 
+.icons {
+  display: flex;
+  justify-content: space-between;
+}
 
+.icons .row {
+  margin-bottom: 10px; /* Optional spacing between rows */
+}
 
 /* julius modification ends here */
